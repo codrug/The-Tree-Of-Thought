@@ -1,0 +1,21 @@
+{
+  "name": "the-tree-of-thought",
+  "version": "1.0.0",
+  "description": "it weaves text with other words heirarchially and semantically providing a tree of thought",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tree",
+    "thought",
+    "text",
+    "hierarchical"
+  ],
+  "author": "Dhruv Reddy Gaddameedi",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "express": "^5.1.0"
+  }
+}

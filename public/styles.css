@@ -1,0 +1,36 @@
+body {
+    background: #1a1a1a;
+    font-family: 'Times New Roman', serif;
+    color: #d4af37;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+  }
+  #container {
+    text-align: center;
+    padding: 20px;
+  }
+  input {
+    padding: 8px;
+    background: #2a2a2a;
+    border: 1px solid #d4af37;
+    color: #d4af37;
+    font-family: 'Times New Roman', serif;
+    width: 200px;
+  }
+  button {
+    padding: 8px 16px;
+    background: #d4af37;
+    color: #1a1a1a;
+    border: none;
+    font-family: 'Times New Roman', serif;
+    cursor: pointer;
+  }
+  .info-box {
+    position: absolute;
+    background: #2a2a2a;
+    padding: 10px;
+    border: 1px solid #d4af37;
+    display: none;
+    max-width: 300px;
+  }
