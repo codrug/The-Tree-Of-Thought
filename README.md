@@ -1,4 +1,4 @@
-# The-Tree-Of-Thought (Yet to code fully)
+# The-Tree-of-Thought (Yet to fully code)
 The Tree Of Thought is an interactive web application that helps improve creativity and productivity 
 # Steps to run 
 1. Clone the repo
